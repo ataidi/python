@@ -1,0 +1,13 @@
+#datatypes
+student_name="ataidi-ngoma"
+course="ICT"
+fee_paid=10000.86
+is_kenya=True
+height=58.79
+age=30
+#print(type(student_name))
+#print(type(fee_paid))
+print(type(course))
+print(type(is_kenya))
+print(type(height))
+print(type(age))
